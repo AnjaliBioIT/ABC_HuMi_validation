@@ -1,31 +1,31 @@
-BGC_code,status,start_locus_hits,end_locus_hits,sequence_length,feature_count,main_category,sub_category,total_hits
-643901933_0,found,4,4,7820,12,BGC found with contig,Additional information,8
-643010393_0,found,2,3,15735,32,BGC found with contig,Additional information,5
-643892130_0,found,4,3,4771,12,BGC found with contig,Additional information,7
-645068780_0,not_found,0,0,0,0,BGC not found,Search failed,0
-2513278552_1,found,4,4,11811,16,BGC found with contig,Additional information,8
-647005257_1,found,3,3,11091,26,BGC found with contig,Additional information,6
-2515168399_0,not_found,0,0,0,0,BGC not found,Search failed,0
-2515168399_1,not_found,0,0,0,0,BGC not found,Search failed,0
-651053087_2,found,2,2,7952,12,BGC found with contig,Additional information,4
-649991625_1,found,3,3,12972,26,BGC found with contig,Additional information,6
-643010395_0,found,3,3,14551,24,BGC found with contig,Additional information,6
-643692059_5,found,2,2,6672,18,BGC found with contig,Additional information,4
-645955705_0,found,3,4,10763,20,BGC found with contig,Additional information,7
-645962186_0,error,4,3,0,0,BGC not found,Processing error,7
-649998151_0,found,4,4,16770,26,BGC found with contig,Additional information,8
-651337709_0,error,2,4,0,0,BGC not found,Processing error,6
-2519922313_0,found,3,3,7935,20,BGC found with contig,Additional information,6
-2513276739_0,found,4,4,12329,22,BGC found with contig,Additional information,8
-2515168395_1,not_found,0,0,0,0,BGC not found,Search failed,0
-651324622_1,found,3,3,31323,66,BGC found with contig,Additional information,6
-643692009_4,found,2,2,20305,36,BGC found with contig,Additional information,4
-643692009_3,found,2,2,23821,44,BGC found with contig,Additional information,4
-645952388_0,not_found,0,0,0,0,BGC not found,Search failed,0
-650002474_0,found,4,4,8085,18,BGC found with contig,Additional information,8
-643903051_0,not_found,0,0,0,0,BGC not found,Search failed,0
-648299867_0,found,3,3,6508,12,BGC found with contig,Additional information,6
-649991702_0,found,4,4,12368,24,BGC found with contig,Additional information,8
-645964627_6,found,3,3,13074,16,BGC found with contig,Additional information,6
-648861125_1,found,2,2,15533,25,BGC found with contig,Additional information,4
-2529352266_0,found,3,3,29158,50,BGC found with contig,Additional information,6
+BGC_code	status	start_locus_hits	end_locus_hits	ABC-HuMi										
+643901933_0	found	4	4	absent										
+643010393_0	found	2	3	present										
+643892130_0	found	4	3	absent										
+645068780_0	not_found	0	0	NA										
+2513278552_1	found	4	4	absent										
+647005257_1	found	3	3	present										
+2515168399_0	not_found	0	0	NA										
+2515168399_1	not_found	0	0	NA										
+651053087_2	found	2	2	absent										
+649991625_1	found	3	3	present										
+643010395_0	found	3	3	present										 
+643692059_5	found	2	2	present										
+645955705_0	found	3	4	present [only 1 match]										
+645962186_0	error	4	3	NA										
+649998151_0	found	4	4	present										
+651337709_0	error	2	4	NA										
+2519922313_0	found	3	3	absent										
+2513276739_0	found	4	4	present [only 2 matches]										
+2515168395_1	not_found	0	0	NA										
+651324622_1	found	3	3	present										
+643692009_4	found	2	2	present										
+643692009_3	found	2	2	present										
+645952388_0	not_found	0	0	NA										
+650002474_0	found	4	4	present [only 1 match]										
+643903051_0	not_found	0	0	NA										
+648299867_0	found	3	3	absent										
+649991702_0	found	4	4	absent										
+645964627_6	found	3	3	absent										
+648861125_1	found	2	2	absent										
+2529352266_0	found	3	3	present										
